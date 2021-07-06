@@ -1,6 +1,6 @@
 # FPGA-Bitcoin-Miner
 
-This is a basic FPGA-based bitcoin miner which (will I hope) mines the Bitcoin crytocurrny in real-time!
+This is a basic FPGA-based bitcoin miner which (will I hope) mines the Bitcoin crytocurreny in real-time!
 
 For the people who are curious to understand in a simplified setup:
 - **How the Bitcoin blockchain works**
